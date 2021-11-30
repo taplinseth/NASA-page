@@ -1,0 +1,69 @@
+div {
+    background-color: #E6E6E6;
+    height: 324px;
+    width: 850px;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Outfit', sans-serif;
+}
+
+h1{
+    font-family: 'Outfit', sans-serif;
+}
+
+.text_block_nasa {
+    color: white;
+    font-size: 80px;
+    position: absolute;
+    top: 18%;
+    left: 44%;
+    transform: translate(-50%, -50%)
+}
+
+.socialMedia {
+    font-size: 20px;
+    margin-left: 17%;
+    margin-top: 5%;
+}
+
+.socialList {
+    list-style-type: none;
+    line-height: 1.5;
+    color: #A8A8A8;
+}
+
+.officeInfo {
+    font-size: 20px;
+    margin-left: 17%;
+    margin-top: 5%;
+}
+
+.officeInfoList {
+    list-style-type: none;
+    line-height: 1.5;
+    color: #A8A8A8;
+}
+
+.contactUs {
+    font-size: 20px;
+    margin-top: 5%;
+}
+
+.name {
+    height: 20px;
+}
+
+.message {
+    height: 50px;
+}
+
+.button {
+    margin-top: 5px;
+    background-color: #4D4D4D;
+    color: white;
+}
+
+label {
+    color: #A8A8A8;
+}
+
